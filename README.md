@@ -62,9 +62,9 @@ A sophisticated web-based drone pathfinding application that combines the A* alg
    pip install flask requests
    ```
 
-4. **Set up Google Maps API Key**
-   - Obtain a Google Maps API Key from [Google Cloud Console](https://console.cloud.google.com/)
-   - Set the environment variable:
+**Set up Google Maps API Key (Optional)**
+   - The application includes a hard-coded demo API key for testing
+   - To use your own key, obtain one from [Google Cloud Console](https://console.cloud.google.com/) and set the environment variable:
      ```bash
      set GOOGLE_MAPS_API_KEY=your_api_key_here
      ```
