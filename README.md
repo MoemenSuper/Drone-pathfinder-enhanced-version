@@ -290,8 +290,8 @@ Contributions are welcome! Please feel free to:
 ## 📧 Contact & Support
 
 For issues, questions, or feedback, please refer to the project documentation or create an issue in the repository.
-This is purely a academical project.
-It Simulates google maps.
+This is purely a academical project made by me.
+
 
 ---
 
